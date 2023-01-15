@@ -1,0 +1,5 @@
+Gigabyte AM1M-S2H ver1.0
+
+Shortname: am1
+
+
